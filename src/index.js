@@ -4,7 +4,7 @@ import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import * as dat from "lil-gui";
 import vertexShader from "./shaders/vertexShader";
 import fragmentShader from "./shaders/fragmentShader";
-import skyImage from "./Textures/sky.jpg";
+import skyImage from "./textures/sky.jpg";
 
 /**
  * Sizes
